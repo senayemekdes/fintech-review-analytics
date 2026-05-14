@@ -13,6 +13,7 @@ data/
 .ipynb_checkpoints/
 
 # VS Code
-.vscode/
-# Virtual environment
+# virtual environment
 venv/
+.venv/
+env/
