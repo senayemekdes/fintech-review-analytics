@@ -1,3 +1,6 @@
+-- @conn: your_database_name
+-- or
+-- @connection: postgres@localhost:5432/your_database_name
 CREATE TABLE banks (
     bank_id SERIAL PRIMARY KEY,
     bank_name VARCHAR(100) NOT NULL,
