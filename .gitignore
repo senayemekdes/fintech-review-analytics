@@ -1,19 +1,6 @@
-# Python
+# Virtual environment
+.venv/
+
+# Python cache
 __pycache__/
 *.pyc
-venv/
-.env
-
-# Data files
-data/
-*.csv
-*.db
-
-# Jupyter
-.ipynb_checkpoints/
-
-# VS Code
-# virtual environment
-venv/
-.venv/
-env/
